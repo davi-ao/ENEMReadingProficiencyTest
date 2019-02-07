@@ -1,0 +1,20 @@
+body {
+    font-size: 1.4em !important;
+}
+
+input {
+    font-size: 1em !important;
+    text-align: center;
+}
+
+#jspsych-html-button-response-stimulus, #jspsych-html-button-response-btngroup {
+    display: inline-block;
+}
+
+.jspsych-btn {
+    font-size: 1em;
+}
+
+.jspsych-survey-multi-choice-option label, .jspsych-survey-multi-choice-text {
+    display: inline !important;
+}
